@@ -6,8 +6,6 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     
     while (l1 != NULL || l2 != NULL) {
         int sum = carry;
-        
-        
         if (l1 != NULL) {
             sum += l1->val;
             l1 = l1->next;
@@ -16,12 +14,8 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
             sum += l2->val;
             l2 = l2->next;
         }
-        
-       
         carry = sum / 10;
         sum %= 10;
-        
-       
         struct ListNode* newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
         newNode->val = sum;
         newNode->next = NULL;
@@ -34,8 +28,6 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
             resultTail = newNode;
         }
     }
-    
-   
     if (carry > 0) {
         struct ListNode* newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
         newNode->val = carry;
