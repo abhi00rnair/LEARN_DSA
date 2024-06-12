@@ -8,7 +8,7 @@ public:
         return ret;
     }
     
-    void func(vector<vector<int>>&ret,vector<int>&nums,int sum, int i, int n,vector<int>temp){
+    void func(vector<vector<int>>&ret,vector<int>&nums,int sum, int i, int n,vector<int>&temp){
         if(i==n){
             if(sum==0){
                 ret.push_back(temp);
