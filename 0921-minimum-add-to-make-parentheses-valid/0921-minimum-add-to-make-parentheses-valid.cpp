@@ -1,21 +1,20 @@
-#include <string>
 
 class Solution {
 public:
-    int minAddToMakeValid(std::string s) {
-        int additional = 0; // Counter for additional parentheses needed
-        int open = 0;       // Counter for open parentheses
+    int minAddToMakeValid(string s) {
+        int additional = 0; 
+        int open = 0;
         for (char c : s) {
             if (c == '(') {
-                open++; // Increment for open parenthesis
+                open++;
             } else {
                 if (open > 0) {
-                    open--; // Match with an open parenthesis
+                    open--; 
                 } else {
-                    additional++; // No open parenthesis to match, need an additional one
+                    additional++;
                 }
             }
         }
-        return open + additional; // Return the sum of remaining open parentheses and additional needed
+        return open+additional;
     }
 };
