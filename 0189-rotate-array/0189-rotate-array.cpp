@@ -1,12 +1,16 @@
 class Solution {
 public:
-    void rotate(std::vector<int>& nums, int k) {
+    void rotate(vector<int>& nums, int k) {
         int n=nums.size();
-        if(k>=n){
-        k=k%n;
+        int ke;
+        if(k>n){
+        ke=k%n;
+        }else{
+            ke=k;
         }
         reverse(nums.begin(),nums.end());
-        reverse(nums.begin(),nums.begin()+k);
-        reverse(nums.begin()+k,nums.end());
+        reverse(nums.begin(),nums.begin()+ke);
+        reverse(nums.begin()+ke,nums.end());
+        
     }
 };
