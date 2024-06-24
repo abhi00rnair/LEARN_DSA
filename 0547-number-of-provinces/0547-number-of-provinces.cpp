@@ -5,10 +5,10 @@ public:
         int ret=0;
         int n=isConnected.size();
         int visited[n];
-        //memset(visited,0,n);
-        for(int j=0;j<n;j++){
+        memset(visited,0,sizeof(int)*n);
+        /*for(int j=0;j<n;j++){
             visited[j]=0;
-        }
+        }*/
         for(int i=0;i<n;i++){
             if(!(visited[i])){
                 func(isConnected,visited,que,i,n);
