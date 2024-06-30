@@ -10,7 +10,7 @@ public:
 
         rett[0] = first;
         rett[1] = last;
-        return rett;
+        return {first,last};
     }
 
 private:
