@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> rett(2, -1);
         int first = func1(nums, target);
         /*if (first == -1) {
             return rett;
