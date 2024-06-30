@@ -3,13 +3,10 @@ public:
     vector<int> searchRange(vector<int>& nums, int target) {
         vector<int> rett(2, -1);
         int first = func1(nums, target);
-        if (first == -1) {
+        /*if (first == -1) {
             return rett;
-        }
+        }*/
         int last = func2(nums, target);
-
-        rett[0] = first;
-        rett[1] = last;
         return {first,last};
     }
 
