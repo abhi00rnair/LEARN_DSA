@@ -23,7 +23,7 @@ public:
         
         ListNode*temp=reverse(slow);
         ListNode*tp=head;
-        slow->next=NULL;
+        //slow->next=NULL;
         
         while(temp!=nullptr){
             if(tp->val!=temp->val){
