@@ -12,7 +12,6 @@
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        TreeNode*root=NULL;
         unordered_map<int,TreeNode*>mp;
         unordered_map<int,int>st;
         int n=descriptions.size();
@@ -41,6 +40,7 @@ public:
                 st[parent]=0;
             }
         }
+        TreeNode*root=NULL;
         for(auto it :st){
             if(it.second==0){
                 root=mp[it.first];
