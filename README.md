@@ -5,6 +5,7 @@ Contains solved leetcode questions
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -38,6 +39,7 @@ Contains solved leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -46,5 +48,6 @@ Contains solved leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
