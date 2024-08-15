@@ -40,6 +40,7 @@ Contains solved leetcode questions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhi00rnair/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -100,4 +101,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhi00rnair/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
