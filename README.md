@@ -8,6 +8,7 @@ Contains solved leetcode questions
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
@@ -62,6 +63,7 @@ Contains solved leetcode questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
