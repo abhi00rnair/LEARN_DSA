@@ -128,4 +128,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/abhi00rnair/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
