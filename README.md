@@ -103,6 +103,7 @@ Contains solved leetcode questions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abhi00rnair/leetcode/tree/master/0009-palindrome-number) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
