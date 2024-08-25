@@ -11,6 +11,7 @@ Contains solved leetcode questions
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi00rnair/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
@@ -151,4 +152,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
