@@ -5,7 +5,7 @@ public:
         if (n == 0 || duration == 0) {
             return 0;
         }
-        int totalDuration = 0;
+        int ret= 0;
         int lastEnd = 0;
 
         for (int i = 0; i < n; i++) {
@@ -13,17 +13,13 @@ public:
             int end = start + duration;
 
             if (start < lastEnd) {
-                // There is overlap, add only the non-overlapping part
-                totalDuration += end - lastEnd;
+                ret+= end - lastEnd;
             } else {
-                // No overlap, add the full duration
-                totalDuration += duration;
+                ret+= duration;
             }
-
-            // Update the end time of the current poison effect
             lastEnd = end;
         }
 
-        return totalDuration;
+        return ret;
     }
 };
