@@ -24,8 +24,8 @@ public:
             que.pop();
             int row = p.first;
             int col = p.second;
-            vector<pair<int, int>> directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-            for (auto dir : directions) {
+            vector<pair<int, int>>temparr = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
+            for (auto dir : temparr) {
                 int newRow = row + dir.first;
                 int newCol = col + dir.second;
                 if (newRow >= 0 && newRow < grid.size() && newCol >= 0 && newCol < grid[0].size() &&
