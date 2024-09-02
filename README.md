@@ -15,6 +15,7 @@ Contains solved leetcode questions
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi00rnair/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -107,6 +108,7 @@ Contains solved leetcode questions
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -200,5 +203,10 @@ Contains solved leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
