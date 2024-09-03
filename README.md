@@ -68,6 +68,7 @@ Contains solved leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/abhi00rnair/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Counting
@@ -174,6 +175,7 @@ Contains solved leetcode questions
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/abhi00rnair/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
