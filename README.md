@@ -125,6 +125,7 @@ Contains solved leetcode questions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/abhi00rnair/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhi00rnair/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
