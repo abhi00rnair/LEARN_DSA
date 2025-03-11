@@ -76,6 +76,7 @@ Contains solved leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -94,6 +95,7 @@ Contains solved leetcode questions
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/abhi00rnair/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -183,6 +185,7 @@ Contains solved leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi00rnair/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
