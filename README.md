@@ -5,6 +5,7 @@ Contains solved leetcode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhi00rnair/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/abhi00rnair/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhi00rnair/leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
@@ -78,6 +79,7 @@ Contains solved leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhi00rnair/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi00rnair/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi00rnair/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
