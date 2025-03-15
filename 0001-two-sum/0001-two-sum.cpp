@@ -3,7 +3,6 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         map<int,int>mp;
         int n=nums.size();
-        //int sum=0;
         for(int i=0;i<n;i++){
             int sumneed=target-nums[i];
             if(mp.find(sumneed)!=mp.end()){
