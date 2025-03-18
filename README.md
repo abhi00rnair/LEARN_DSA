@@ -106,6 +106,7 @@ Contains solved leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhi00rnair/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhi00rnair/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/abhi00rnair/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/abhi00rnair/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhi00rnair/leetcode/tree/master/0125-valid-palindrome) |
