@@ -33,6 +33,7 @@ Contains solved leetcode questions
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhi00rnair/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -221,6 +222,7 @@ Contains solved leetcode questions
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhi00rnair/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,6 +230,7 @@ Contains solved leetcode questions
 | [0966-binary-subarrays-with-sum](https://github.com/abhi00rnair/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhi00rnair/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
