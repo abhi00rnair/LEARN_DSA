@@ -1,22 +1,21 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n=s.size();
-        int a=-1,b=-1,c=-1;
         int count=0;
-
+        int left=0;
+        int a=0,b=0,c=0;
+        int n=s.length();
         for(int right=0;right<n;right++){
-            if(s[right]=='a'){
-                a=right;
-            }if(s[right]=='b'){
-                b=right;
-            }if(s[right]=='c'){
-                c=right;
-            }
-            if(a!=-1 && b!=-1 && c!=-1){
-                int minn =min(a,b);
-                int minnn=min(minn,c);
-                count+=(minnn+1);
+            if(s[right]=='a'){a++;}
+            if(s[right]=='b'){b++;}
+            if(s[right]=='c'){c++;}
+
+            while(a>0 && b>0 && c>0){
+                count+=n-right;
+            if(s[left]=='a'){a--;}
+            if(s[left]=='b'){b--;}
+            if(s[left]=='c'){c--;}
+            left++;
             }
         }
         return count;
