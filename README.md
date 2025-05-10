@@ -123,6 +123,7 @@ Contains solved leetcode questions
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/abhi00rnair/leetcode/tree/master/1508-longest-happy-prefix) |
@@ -148,6 +149,7 @@ Contains solved leetcode questions
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -161,6 +163,7 @@ Contains solved leetcode questions
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi00rnair/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/abhi00rnair/leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -168,6 +171,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
