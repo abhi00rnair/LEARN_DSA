@@ -1,24 +1,21 @@
 class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
-        sort(s.begin(),s.end());
-        sort(g.begin(),g.end());
-        return func(g,s);
-    }
-    
-    int func(vector<int>&g,vector<int>&s){
-        int i=0;
-        int j=0;
-        int count=0;
-        while(i<g.size() && j<s.size()){
-            if(s[j]>=g[i]){
-                count++;
-                j++;
-                i++;
+        int rett=0;
+        sort(g.begin(), g.end());
+        sort(s.begin(), s.end());
+        int left=0, right=0;
+        int n=s.size();
+        int nn=g.size();
+        while(left<n && right<nn){
+            if(g[right]<=s[left]){
+                rett++;
+                left++;
+                right++;
             }else{
-                j++;
+                left++;
             }
         }
-        return count;
+        return rett;
     }
 };
