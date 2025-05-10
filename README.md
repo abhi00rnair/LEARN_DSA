@@ -12,6 +12,7 @@ Contains solved leetcode questions
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi00rnair/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -190,6 +191,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/abhi00rnair/leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
