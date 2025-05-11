@@ -9,6 +9,7 @@ Contains solved leetcode questions
 | [0015-3sum](https://github.com/abhi00rnair/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhi00rnair/leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/abhi00rnair/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abhi00rnair/leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
@@ -67,6 +68,7 @@ Contains solved leetcode questions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abhi00rnair/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/abhi00rnair/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
