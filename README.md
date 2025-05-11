@@ -202,6 +202,7 @@ Contains solved leetcode questions
 | [0007-reverse-integer](https://github.com/abhi00rnair/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhi00rnair/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -257,6 +258,7 @@ Contains solved leetcode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhi00rnair/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhi00rnair/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
