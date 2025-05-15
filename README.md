@@ -11,6 +11,7 @@ Contains solved leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhi00rnair/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi00rnair/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhi00rnair/leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/abhi00rnair/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
@@ -201,6 +202,7 @@ Contains solved leetcode questions
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/abhi00rnair/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 ## Math
