@@ -1,24 +1,29 @@
 class Solution {
 public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(),candidates.end());
-        vector<vector<int>>ret;
-        int n=candidates.size();
+        sort(candidates.begin(), candidates.end());
+        vector<vector<int>>rett;
         vector<int>temp;
-        func(candidates,target,ret,temp,0,n);
-        return ret;
+        int n=candidates.size();
+        func(candidates,target,rett,temp,0,n);
+        return rett;
     }
-    void func(vector<int>&nums,int key,vector<vector<int>>&ret,vector<int>&temp,int i,int n){
-     if(key==0){
-         ret.push_back(temp);
-         return;
-     }
+
+    void func(vector<int>&nums, int target, vector<vector<int>>&rett,vector<int>&temp,int i, int n){
+        if(target==0){
+            rett.push_back(temp);
+        }
         for(int j=i;j<n;j++){
-            if(j>i && nums[j]==nums[j-1])continue;
-            if(nums[j]>key)break;
+            if(j>i && nums[j]==nums[j-1]){
+                continue;
+            }
+            if(target<nums[j]|| target<0){
+                break;
+            }
             temp.push_back(nums[j]);
-            func(nums,key-nums[j],ret,temp,j+1,n);
+            func(nums,target-nums[j],rett,temp,j+1,n);
             temp.pop_back();
+
         }
     }
 };
