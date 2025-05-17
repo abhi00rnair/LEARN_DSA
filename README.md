@@ -261,6 +261,7 @@ Contains solved leetcode questions
 | [0024-swap-nodes-in-pairs](https://github.com/abhi00rnair/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/abhi00rnair/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhi00rnair/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/abhi00rnair/leetcode/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -268,6 +269,7 @@ Contains solved leetcode questions
 | [0021-merge-two-sorted-lists](https://github.com/abhi00rnair/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhi00rnair/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/abhi00rnair/leetcode/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
