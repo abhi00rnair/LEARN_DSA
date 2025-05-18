@@ -25,6 +25,7 @@ Contains solved leetcode questions
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/abhi00rnair/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhi00rnair/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
@@ -79,6 +80,7 @@ Contains solved leetcode questions
 | ------- |
 | [0035-search-insert-position](https://github.com/abhi00rnair/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi00rnair/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/abhi00rnair/leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -94,6 +96,7 @@ Contains solved leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
@@ -113,6 +116,7 @@ Contains solved leetcode questions
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
@@ -216,6 +220,7 @@ Contains solved leetcode questions
 | [0009-palindrome-number](https://github.com/abhi00rnair/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -282,6 +287,7 @@ Contains solved leetcode questions
 | ------- |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/abhi00rnair/leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
