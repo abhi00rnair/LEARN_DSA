@@ -198,6 +198,7 @@ Contains solved leetcode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -361,6 +362,7 @@ Contains solved leetcode questions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
