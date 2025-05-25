@@ -23,6 +23,7 @@ Contains solved leetcode questions
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
@@ -230,6 +231,7 @@ Contains solved leetcode questions
 | [0009-palindrome-number](https://github.com/abhi00rnair/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -367,4 +369,12 @@ Contains solved leetcode questions
 | [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
