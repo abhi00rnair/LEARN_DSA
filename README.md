@@ -18,6 +18,7 @@ Contains solved leetcode questions
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhi00rnair/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi00rnair/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -148,6 +149,7 @@ Contains solved leetcode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhi00rnair/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhi00rnair/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
@@ -213,6 +215,7 @@ Contains solved leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
@@ -227,6 +230,7 @@ Contains solved leetcode questions
 | [0039-combination-sum](https://github.com/abhi00rnair/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -351,6 +355,7 @@ Contains solved leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Union Find
