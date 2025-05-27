@@ -181,6 +181,7 @@ Contains solved leetcode questions
 | [0005-longest-palindromic-substring](https://github.com/abhi00rnair/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -240,6 +241,7 @@ Contains solved leetcode questions
 | [0009-palindrome-number](https://github.com/abhi00rnair/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -388,4 +390,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
