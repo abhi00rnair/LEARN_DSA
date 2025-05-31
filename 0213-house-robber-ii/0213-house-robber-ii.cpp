@@ -1,34 +1,24 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 1) {
+        int n=nums.size();
+        if(n==1){
             return nums[0];
-        }
+        }        
+        vector<int>dp(n, -1);
+        vector<int>dp2(n,-1);
+        int fun1=func(nums,n-2,0,dp);
+        int fun2=func(nums,n-1,1,dp2);
+        return max(fun1, fun2);
         
-        vector<int> num1(nums.begin(), nums.end() - 1);
-        vector<int> num2(nums.begin() + 1, nums.end());
-        
-        return max(func(num1), func(num2));
     }
-    
-    int func(vector<int>& num) {
-        int n = num.size();
-        if (n == 0) {
+    int func(vector<int>&nums, int n ,int end, vector<int>&dp){
+        if(n<end){
             return 0;
         }
-        if (n == 1) {
-            return num[0];
+        if(dp[n]!=-1){
+            return dp[n];
         }
-        
-        vector<int> dp(n, -1);
-        dp[0] = num[0];
-        dp[1] = max(num[0], num[1]);
-        
-        for (int i = 2; i < n; ++i) {
-            dp[i] = max(dp[i - 1], num[i] + dp[i - 2]);
-        }
-        
-        return dp[n - 1];
+        return dp[n]=max(func(nums,n-1,end,dp), func(nums,n-2,end,dp)+nums[n]);
     }
 };
