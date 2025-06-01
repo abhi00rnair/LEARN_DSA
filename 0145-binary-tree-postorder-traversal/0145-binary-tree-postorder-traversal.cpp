@@ -12,9 +12,9 @@
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int>ret;
+        vector<int>rett;
         if(root==nullptr){
-            return ret;
+            return rett;
         }
         stack<TreeNode*>st1;
         stack<int>st2;
@@ -32,9 +32,9 @@ public:
         }
         
         while(!st2.empty()){
-            ret.push_back(st2.top());
+            rett.push_back(st2.top());
             st2.pop();
         }
-        return ret;
+        return rett;
     }
 };
