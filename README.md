@@ -112,6 +112,7 @@ Contains solved leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -135,6 +136,7 @@ Contains solved leetcode questions
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi00rnair/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -231,6 +233,7 @@ Contains solved leetcode questions
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +247,7 @@ Contains solved leetcode questions
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -254,6 +258,7 @@ Contains solved leetcode questions
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -382,6 +387,7 @@ Contains solved leetcode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
