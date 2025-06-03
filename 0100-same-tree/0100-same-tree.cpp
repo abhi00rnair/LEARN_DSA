@@ -21,15 +21,15 @@ public:
         if(p->val!=q->val){
             return false;
         }
-        if((p->left!=NULL && q->left==NULL) || (p->left==NULL && q->left!=NULL)){
+        /*if((p->left!=NULL && q->left==NULL) || (p->left==NULL && q->left!=NULL)){
             return false;
-        }
+        }*/
         bool tp=isSameTree(p->left,q->left);
 
-        if((p->right!=NULL && q->right==NULL) || (p->right==NULL && q->right!=NULL)){
+        /*if((p->right!=NULL && q->right==NULL) || (p->right==NULL && q->right!=NULL)){
             return false;
-        }
+        }*/
         bool tr=isSameTree(p->right,q->right);
-        return tp&tr;
+        return tp&&tr;
     }
 };
