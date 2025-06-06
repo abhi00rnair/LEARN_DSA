@@ -164,6 +164,7 @@ Contains solved leetcode questions
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/abhi00rnair/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -223,6 +224,7 @@ Contains solved leetcode questions
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
