@@ -17,6 +17,7 @@ Contains solved leetcode questions
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhi00rnair/leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
@@ -198,6 +199,7 @@ Contains solved leetcode questions
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhi00rnair/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -431,6 +433,7 @@ Contains solved leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
