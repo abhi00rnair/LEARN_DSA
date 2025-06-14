@@ -20,6 +20,7 @@ Contains solved leetcode questions
 | [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhi00rnair/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -439,6 +441,7 @@ Contains solved leetcode questions
 | ------- |
 | [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
