@@ -1,15 +1,19 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        if(n<=1){
+        vector<int>dp(n+1,-1);
+        return func(n,dp);
+           
+    }
+    int func(int i, vector<int>&dp){
+        if(i<=1){
             return 1;
         }
-        int prev1=1,prev2=1;
-        for(int i=2;i<=n;i++){
-            int temp=prev1+prev2;
-            prev2=prev1;
-            prev1=temp;
+        if(dp[i]!=-1){
+            return dp[i];
         }
-        return prev1;
+        int tp1=func(i-1, dp);
+        int tp2=func(i-2, dp);
+        return dp[i]= tp1+tp2;
     }
 };
