@@ -165,6 +165,7 @@ Contains solved leetcode questions
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -193,6 +194,7 @@ Contains solved leetcode questions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhi00rnair/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Contains solved leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Contains solved leetcode questions
 | [2050-count-good-numbers](https://github.com/abhi00rnair/leetcode/tree/master/2050-count-good-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
