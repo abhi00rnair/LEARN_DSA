@@ -42,6 +42,7 @@ Contains solved leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi00rnair/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi00rnair/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -227,6 +228,7 @@ Contains solved leetcode questions
 | [0198-house-robber](https://github.com/abhi00rnair/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhi00rnair/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0494-target-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
@@ -316,6 +318,7 @@ Contains solved leetcode questions
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
