@@ -17,7 +17,6 @@ public:
         int tp=k-(n-i);
         string temp=s.substr(i,n-i);
         while(tp!=0){
-            //string tx=k;
             temp+=fill;
             tp--;
         }
