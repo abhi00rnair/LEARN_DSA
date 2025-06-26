@@ -197,6 +197,7 @@ Contains solved leetcode questions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhi00rnair/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -235,6 +236,7 @@ Contains solved leetcode questions
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Contains solved leetcode questions
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -508,6 +511,7 @@ Contains solved leetcode questions
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Combinatorics
 |  |
 | ------- |
