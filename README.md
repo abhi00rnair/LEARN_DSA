@@ -190,6 +190,7 @@ Contains solved leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/abhi00rnair/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -235,6 +236,7 @@ Contains solved leetcode questions
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Binary Indexed Tree
