@@ -39,6 +39,7 @@ Contains solved leetcode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhi00rnair/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ Contains solved leetcode questions
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhi00rnair/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -106,6 +108,7 @@ Contains solved leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhi00rnair/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/abhi00rnair/leetcode/tree/master/0792-binary-search) |
@@ -423,6 +426,7 @@ Contains solved leetcode questions
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/abhi00rnair/leetcode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
