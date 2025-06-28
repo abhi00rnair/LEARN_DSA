@@ -91,6 +91,7 @@ Contains solved leetcode questions
 | [0125-valid-palindrome](https://github.com/abhi00rnair/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi00rnair/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -122,6 +123,7 @@ Contains solved leetcode questions
 | [0015-3sum](https://github.com/abhi00rnair/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhi00rnair/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
@@ -406,6 +408,7 @@ Contains solved leetcode questions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhi00rnair/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi00rnair/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/abhi00rnair/leetcode/tree/master/0206-reverse-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -444,6 +447,7 @@ Contains solved leetcode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -525,4 +529,8 @@ Contains solved leetcode questions
 | ------- |
 | [0062-unique-paths](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
