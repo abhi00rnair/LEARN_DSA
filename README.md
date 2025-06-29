@@ -61,6 +61,7 @@ Contains solved leetcode questions
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhi00rnair/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhi00rnair/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -100,6 +101,7 @@ Contains solved leetcode questions
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ Contains solved leetcode questions
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
@@ -136,6 +139,7 @@ Contains solved leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
