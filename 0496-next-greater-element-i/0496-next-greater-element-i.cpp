@@ -4,12 +4,14 @@ public:
         int n=nums2.size();
         map<int, int>mp;
         for(int i=0;i<n;i++){
+            int flag=1;
             for(int j=i+1;j<n;j++){
                 if(nums2[i]<nums2[j]){
                     mp[nums2[i]]=nums2[j];
+                    flag=0;
                     break;
                 }
-            }if(!mp[nums2[i]]){
+            }if(flag==1){
             mp[nums2[i]]=-1;
             }
         }
