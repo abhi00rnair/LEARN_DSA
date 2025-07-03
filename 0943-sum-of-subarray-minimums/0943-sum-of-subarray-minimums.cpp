@@ -19,21 +19,23 @@ public:
             st.push(i);
             i++;
         }
-        stack<int>st1;
+        while(!st.empty()){
+            st.pop();
+        }
         vector<int>nse(n,-1);
         i=n-2;
         nse[n-1]=n;
-        st1.push(n-1);
+        st.push(n-1);
         while(i>=0){
-            while(!st1.empty() && arr[st1.top()]>=arr[i]){
-                st1.pop();
+            while(!st.empty() && arr[st.top()]>=arr[i]){
+                st.pop();
             }
-            if(st1.empty()){
+            if(st.empty()){
                 nse[i]=n;
             }else{
-                nse[i]=st1.top();
+                nse[i]=st.top();
             }
-            st1.push(i);
+            st.push(i);
             i--;
         }
 
