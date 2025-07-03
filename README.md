@@ -13,6 +13,7 @@ Contains solved leetcode questions
 | [0035-search-insert-position](https://github.com/abhi00rnair/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/abhi00rnair/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
@@ -93,6 +94,7 @@ Contains solved leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhi00rnair/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abhi00rnair/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/abhi00rnair/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/abhi00rnair/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
@@ -241,6 +243,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhi00rnair/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0062-unique-paths) |
@@ -291,6 +294,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
@@ -566,6 +570,7 @@ Contains solved leetcode questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
