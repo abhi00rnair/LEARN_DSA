@@ -384,6 +384,7 @@ Contains solved leetcode questions
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Heap (Priority Queue)
 |  |
@@ -456,6 +457,7 @@ Contains solved leetcode questions
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/abhi00rnair/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -467,6 +469,7 @@ Contains solved leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
