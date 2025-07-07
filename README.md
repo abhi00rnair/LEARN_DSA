@@ -327,6 +327,7 @@ Contains solved leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi00rnair/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -358,6 +359,7 @@ Contains solved leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi00rnair/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Backtracking
@@ -404,6 +406,7 @@ Contains solved leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
@@ -563,6 +566,7 @@ Contains solved leetcode questions
 | [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Enumeration
 |  |
@@ -597,4 +601,12 @@ Contains solved leetcode questions
 | [0496-next-greater-element-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0943-sum-of-subarray-minimums) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
