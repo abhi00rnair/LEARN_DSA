@@ -12,22 +12,16 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        TreeNode*ret=NULL;
-        int count=0;
-        func(root,k,count,ret);
-        return ret->val;
+        vector<int>temp;
+        func(root,temp);
+        return temp[k-1];
     }
-    void func(TreeNode*root, int k ,int &count,TreeNode*&ret){
+    void func(TreeNode*root, vector<int>&temp){
         if(root==NULL){
             return;
         }
-        func(root->left,k,count,ret);
-        count++;
-        if(count==k){
-            ret=root;
-            return;
-        }
-        func(root->right,k,count,ret);
-
+        func(root->left,temp);
+        temp.push_back(root->val);
+        func(root->right,temp);
     }
 };
