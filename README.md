@@ -622,4 +622,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
