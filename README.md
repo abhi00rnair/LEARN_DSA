@@ -114,6 +114,7 @@ Contains solved leetcode questions
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
+| [0961-long-pressed-name](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-long-pressed-name) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -227,6 +228,7 @@ Contains solved leetcode questions
 | [0516-longest-palindromic-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
+| [0961-long-pressed-name](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
