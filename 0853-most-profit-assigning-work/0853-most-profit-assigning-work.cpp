@@ -8,9 +8,8 @@ public:
         }
         sort(dp.begin(), dp.end());
         sort(worker.begin(), worker.end());
-        int rett=0;
+        int rett=0,maxprofit=0,dpindex=0;
         for(int it:worker){
-            int maxprofit=0,dpindex=0;
             while(dpindex<n1 && it>=dp[dpindex].first){
                 maxprofit=max(maxprofit,dp[dpindex].second);
                 dpindex++;
