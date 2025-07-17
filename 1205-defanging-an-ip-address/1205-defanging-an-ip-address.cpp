@@ -5,7 +5,7 @@ public:
         int i=0;
         while(i<address.size()){
             if(address[i]=='.'){
-                rett=rett+'[';
+                rett+='[';
                 rett=rett+'.';
                 rett=rett+']';
                 i++;
