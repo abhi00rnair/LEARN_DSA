@@ -12,26 +12,15 @@ public:
         if(dp[i][j][k]!=-1){
             return dp[i][j][k];
         }
-        int ta=0,tb=0,tc=0,tp=0,tr=0,ts=0,tx=0,ty=0,tz=0;
-        if(j+1<m && k+1<m && j+1!=k+1){
-            tp=grid[i][j]+grid[i][k]+func(grid,i+1,j+1,k+1,m,dp);
-        }if(j+1<m && j+1!=k){
-            tr=grid[i][j]+grid[i][k]+func(grid,i+1,j+1,k,m,dp);
-        }if(j+1<m && k-1>=0 && j+1!=k-1){
-            ts=grid[i][j]+grid[i][k]+func(grid,i+1,j+1,k-1,m,dp);
-        }if(k+1<m && k+1!=j){
-            ta=grid[i][j]+grid[i][k]+func(grid,i+1,j,k+1,m,dp);
-        }if(k!=j){
-            tb=grid[i][j]+grid[i][k]+func(grid,i+1,j,k,m,dp);
-        }if(k-1>=0 && k-1!=j){
-            tc=grid[i][j]+grid[i][k]+func(grid,i+1,j,k-1,m,dp);
-        }if(j-1>=0 && k+1<m && k+1!=j-1){
-            tx=grid[i][j]+grid[i][k]+func(grid,i+1,j-1,k+1,m,dp);
-        }if(j-1>=0 && j-1!=k){
-            ty=grid[i][j]+grid[i][k]+func(grid,i+1,j-1,k,m,dp);
-        }if(j-1>=0 && k-1>=0 && k-1!=j-1){
-            tz=grid[i][j]+grid[i][k]+func(grid,i+1,j-1,k-1,m,dp);
+        int rett=0;
+        int curr=grid[i][j]+grid[i][k];
+        for(int x=-1;x<2;x++){
+            for(int y=-1;y<2;y++){
+                if(j+x>=0 && j+x<m && k+y>=0 && k+y<m && j+x!=k+y){
+                    rett=max(rett,(curr+func(grid,i+1,j+x,k+y,m,dp)));
+                }
+            }
         }
-        return dp[i][j][k]=max({ta,tb,tc,tp,tr,ts,tx,ty,tz});
+        return dp[i][j][k]=rett;
     }
 };
