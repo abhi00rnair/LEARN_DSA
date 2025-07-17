@@ -93,6 +93,7 @@ Contains solved leetcode questions
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -306,6 +307,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
