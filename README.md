@@ -227,6 +227,7 @@ Contains solved leetcode questions
 | [0014-longest-common-prefix](https://github.com/abhi00rnair/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhi00rnair/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0072-edit-distance) |
@@ -280,6 +281,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhi00rnair/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
@@ -414,6 +416,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhi00rnair/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhi00rnair/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
