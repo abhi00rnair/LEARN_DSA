@@ -254,6 +254,7 @@ Contains solved leetcode questions
 | [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/abhi00rnair/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
