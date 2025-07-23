@@ -73,6 +73,7 @@ Contains solved leetcode questions
 | [0966-binary-subarrays-with-sum](https://github.com/abhi00rnair/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhi00rnair/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -416,6 +417,7 @@ Contains solved leetcode questions
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -615,6 +617,7 @@ Contains solved leetcode questions
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
@@ -637,6 +640,7 @@ Contains solved leetcode questions
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1559-cherry-pickup-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -647,6 +651,7 @@ Contains solved leetcode questions
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 ## Rolling Hash
 |  |
 | ------- |
