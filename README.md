@@ -386,6 +386,7 @@ Contains solved leetcode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhi00rnair/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -404,6 +405,7 @@ Contains solved leetcode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhi00rnair/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -426,6 +428,7 @@ Contains solved leetcode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhi00rnair/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -610,6 +613,7 @@ Contains solved leetcode questions
 | [0100-same-tree](https://github.com/abhi00rnair/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi00rnair/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
