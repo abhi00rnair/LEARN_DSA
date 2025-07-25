@@ -1,27 +1,38 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
+        int n=graph.size();
+        vector<int>visited(n,-1);
+        vector<int>pathvisited(n,0);
         vector<int>rett;
-        vector<int>visit(graph.size(),-1);
-        for(int i=0;i<graph.size();i++){
-            if(func(graph,i,visit)==true){
-                rett.push_back(i);
+
+        for(int i=0;i<n;i++){
+            dfs(graph, visited, pathvisited,i);
+            }
+
+        for(int it=0;it<n;it++){
+            if(visited[it]==1){
+                rett.push_back(it);
             }
         }
         return rett;
     }
 
-    bool func(vector<vector<int>>& graph, int node, vector<int>&visit){
-        if(visit[node]!=-1){
-            return visit[node]==1;
+    bool dfs(vector<vector<int>>&graph, vector<int>&visited, vector<int>&pathvisited, int i){
+        if(visited[i]!=-1){
+            return visited[i];
         }
-        visit[node]=0;
-        for(int it:graph[node]){
-            if(func(graph,it,visit)==false){
+
+        visited[i]=0;
+        pathvisited[i]=1;
+
+        for(int it:graph[i]){
+            if(pathvisited[it]==1 || dfs(graph,visited,pathvisited,it)==false){
                 return false;
             }
         }
-        visit[node]=1;
+        pathvisited[i]=0;
+        visited[i]=1;
         return true;
     }
 };
