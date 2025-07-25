@@ -411,6 +411,7 @@ Contains solved leetcode questions
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi00rnair/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/abhi00rnair/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -617,6 +618,7 @@ Contains solved leetcode questions
 | [0112-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/abhi00rnair/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
@@ -628,6 +630,7 @@ Contains solved leetcode questions
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
@@ -635,6 +638,7 @@ Contains solved leetcode questions
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
