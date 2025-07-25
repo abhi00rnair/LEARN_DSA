@@ -418,6 +418,7 @@ Contains solved leetcode questions
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -620,6 +621,7 @@ Contains solved leetcode questions
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -629,6 +631,7 @@ Contains solved leetcode questions
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 ## Topological Sort
 |  |
 | ------- |
@@ -655,6 +658,7 @@ Contains solved leetcode questions
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
+| [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 ## Rolling Hash
 |  |
