@@ -26,8 +26,6 @@ public:
                 }
             }
         }
-        if(rett.size()==numCourses){
-            return rett;
-        }return {};
+        return rett.size()==numCourses ? rett : vector<int>();
     }
 };
