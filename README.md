@@ -97,6 +97,7 @@ Contains solved leetcode questions
 | [2144-maximum-difference-between-increasing-elements](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
