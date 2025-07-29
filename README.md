@@ -428,6 +428,7 @@ Contains solved leetcode questions
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2121-find-if-path-exists-in-graph](https://github.com/abhi00rnair/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -636,6 +637,7 @@ Contains solved leetcode questions
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2121-find-if-path-exists-in-graph](https://github.com/abhi00rnair/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
@@ -644,6 +646,7 @@ Contains solved leetcode questions
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
+| [2121-find-if-path-exists-in-graph](https://github.com/abhi00rnair/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -675,6 +678,7 @@ Contains solved leetcode questions
 | [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2121-find-if-path-exists-in-graph](https://github.com/abhi00rnair/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Rolling Hash
 |  |
 | ------- |
