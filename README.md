@@ -313,6 +313,7 @@ Contains solved leetcode questions
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/abhi00rnair/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,6 +394,7 @@ Contains solved leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/abhi00rnair/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -440,6 +442,7 @@ Contains solved leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/abhi00rnair/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -480,6 +483,7 @@ Contains solved leetcode questions
 | [0062-unique-paths](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
@@ -744,6 +748,7 @@ Contains solved leetcode questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
