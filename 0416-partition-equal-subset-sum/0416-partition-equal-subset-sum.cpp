@@ -1,33 +1,29 @@
 class Solution {
 public:
     bool canPartition(vector<int>& nums) {
-        int sum=0, n=nums.size();
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-        }
-        if(sum%2!=0){
+        int result=accumulate(nums.begin(), nums.end(), 0);
+        if(result%2!=0){
             return false;
         }
-        int target=sum/2;
-        vector<vector<int>>dp(n,vector<int>(target+1, -1));
-        return func(0,target,nums,n,dp);
+        vector<vector<int>>dp(nums.size()+1, vector<int>(result+1, -1));
+        return func(0,result/2, nums, dp);
     }
-    bool func(int i,int target, vector<int>&nums, int n, vector<vector<int>>&dp){
-        if(target==0){
-            return true;
-        }
-        if(i>=n){
-            return false;
-        }
-        if(dp[i][target]!=-1){
-            return dp[i][target];
-        }
-        bool rett2=false;
-        bool rett1=func(i+1, target, nums, n,dp);
-        if(nums[i]<=target){
-            rett2=func(i+1,target-nums[i], nums, n, dp);
-        }
-        return dp[i][target]=rett1 || rett2;
 
+    bool func(int index, int target,vector<int>&nums,vector<vector<int>>&dp){
+        if(target==0){
+            return dp[index][target]=true;
+        }
+        if(index==nums.size()){
+            return dp[index][target]=false;
+        }
+        if(dp[index][target]!=-1){
+            return dp[index][target];
+        }
+        bool notake=func(index+1, target, nums, dp);
+        bool take=false;
+        if(target-nums[index]>=0){
+            take=func(index+1, target-nums[index],nums, dp);
+        }
+        return dp[index][target]=notake | take;
     }
 };
