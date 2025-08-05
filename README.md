@@ -114,6 +114,7 @@ Contains solved leetcode questions
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Contains solved leetcode questions
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -618,6 +620,7 @@ Contains solved leetcode questions
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -773,4 +776,12 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
