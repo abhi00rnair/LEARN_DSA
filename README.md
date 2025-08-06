@@ -257,6 +257,7 @@ Contains solved leetcode questions
 | [0022-generate-parentheses](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/abhi00rnair/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/abhi00rnair/leetcode/tree/master/0115-distinct-subsequences) |
@@ -316,6 +317,7 @@ Contains solved leetcode questions
 | [0005-longest-palindromic-substring](https://github.com/abhi00rnair/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/abhi00rnair/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0062-unique-paths) |
@@ -364,6 +366,7 @@ Contains solved leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhi00rnair/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -592,6 +595,7 @@ Contains solved leetcode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhi00rnair/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhi00rnair/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/abhi00rnair/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhi00rnair/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
