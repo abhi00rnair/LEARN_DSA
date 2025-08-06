@@ -196,6 +196,7 @@ Contains solved leetcode questions
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
@@ -238,6 +239,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -285,6 +287,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3617-find-the-original-typed-string-i) |
@@ -302,6 +305,7 @@ Contains solved leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
@@ -380,6 +384,7 @@ Contains solved leetcode questions
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
