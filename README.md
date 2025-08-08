@@ -348,6 +348,7 @@ Contains solved leetcode questions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
@@ -505,6 +506,7 @@ Contains solved leetcode questions
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
+| [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -798,4 +800,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
