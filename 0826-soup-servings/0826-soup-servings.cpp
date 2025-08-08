@@ -1,14 +1,18 @@
 class Solution {
 public:
     double soupServings(int n) {
-        vector<vector<double>>dp(4801,vector<double>(4801, -1));
-        return func(n, n, dp);
+        if(n>=4800){
+            return 1;
+        }
+        int m=(n+24)/25;
+        vector<vector<double>>dp(m+1,vector<double>(m+1, -1));
+        return func(m, m, dp);
     }
     double func(int n1, int n2, vector<vector<double>>&dp){
         if(n1<=0 && n2<=0){
             return 0.5;
         }
-        if(n1<=0 || ( n1>=4800 && n2>=4800)){
+        if(n1<=0){
             return 1;
         }
         if(n2<=0){
@@ -18,10 +22,10 @@ public:
             return dp[n1][n2];
         }
         double rett=0.25*(
-            func(n1-100,n2-0, dp)+ 
-            func(n1-75, n2-25, dp)+ 
-            func(n1-50, n2-50, dp)+
-            func(n1-25,n2-75, dp)
+            func(n1-4,n2, dp)+ 
+            func(n1-3, n2-1, dp)+ 
+            func(n1-2, n2-2, dp)+
+            func(n1-1,n2-3, dp)
             );
         return dp[n1][n2]=rett;
     }
