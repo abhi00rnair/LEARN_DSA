@@ -504,6 +504,7 @@ Contains solved leetcode questions
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
@@ -602,6 +603,7 @@ Contains solved leetcode questions
 | [0044-wildcard-matching](https://github.com/abhi00rnair/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/abhi00rnair/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhi00rnair/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/abhi00rnair/leetcode/tree/master/2050-count-good-numbers) |
@@ -613,6 +615,7 @@ Contains solved leetcode questions
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/abhi00rnair/leetcode/tree/master/0476-number-complement) |
