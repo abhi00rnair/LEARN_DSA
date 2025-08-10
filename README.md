@@ -63,6 +63,7 @@ Contains solved leetcode questions
 | [0594-longest-harmonious-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/abhi00rnair/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -350,6 +351,7 @@ Contains solved leetcode questions
 | [0494-target-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -371,6 +373,7 @@ Contains solved leetcode questions
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/abhi00rnair/leetcode/tree/master/1511-count-number-of-teams) |
 ## Greedy
 |  |
@@ -807,6 +810,7 @@ Contains solved leetcode questions
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
