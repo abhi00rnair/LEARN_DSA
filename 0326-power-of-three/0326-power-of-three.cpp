@@ -4,14 +4,9 @@ public:
         if(n<=0){
             return false;
         }
-        unordered_set<long long>st;
-        st.insert(1);
-        long long tp=1;
-        for(int i=1;i<30;i++){
-            tp*=3;
-            st.insert(tp);
+        while(n%3==0){
+            n=n/3;
         }
-        return st.count(n);
-
+        return n==1 ? true : false;
     }
 };
