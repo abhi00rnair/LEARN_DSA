@@ -404,6 +404,7 @@ Contains solved leetcode questions
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/abhi00rnair/leetcode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -537,6 +538,7 @@ Contains solved leetcode questions
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
