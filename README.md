@@ -828,6 +828,7 @@ Contains solved leetcode questions
 | [0181-employees-earning-more-than-their-managers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0183-customers-who-never-order) |
+| [0619-biggest-single-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0619-biggest-single-number) |
 ## Shortest Path
 |  |
 | ------- |
