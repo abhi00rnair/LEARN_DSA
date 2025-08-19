@@ -1,20 +1,24 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n=nums.size();
-        int ret=0;
-        int maxx=0;
-        int end=0;
-        for(int i=0;i<n-1;i++){
-            maxx=max(maxx,i+nums[i]);
-            if(i==end){
-                ret++;
-                end=maxx;
-                if(end>=n-1){
-                    break;
-                }
-            }
+        vector<int>dp(nums.size(), -1);
+        return func(nums, 0, nums.size(), dp);
+    }
+
+    int func(vector<int>&nums, int i, int n, vector<int>&dp){
+        if(i>=n-1){
+            return 0;
+        }if(nums[i]==0 || i>=n){
+            return 1e9;
         }
-        return ret;
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+        int rett=1e9;
+        for(int j=1;j<=nums[i];j++){
+            int tp=1+func(nums, i+j,n, dp);
+            rett=min(rett, tp);
+        }
+        return dp[i]=rett;
     }
 };
