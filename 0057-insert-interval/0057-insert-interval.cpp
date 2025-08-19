@@ -1,23 +1,25 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        int n=intervals.size();
-        int i=0;
-        int newstrt=newInterval[0],newend=newInterval[1];
+        intervals.push_back(newInterval);
+        sort(intervals.begin(), intervals.end(), [] (const vector<int>&a, const vector<int>&b){
+            return a[0]<b[0];
+        });
+
         vector<vector<int>>rett;
-        while(i<n && newstrt>intervals[i][1]){
-            rett.push_back(intervals[i]);
-            i++;
-        }
-        while(i<n && newend>=intervals[i][0]){
-            newstrt=min(newstrt, intervals[i][0]);
-            newend=max(newend,intervals[i][1]);
-            i++;
-        }
-        rett.push_back({newstrt, newend});
-        while(i<n){
-            rett.push_back(intervals[i]);
-            i++;
+        int n=intervals.size();
+        rett.push_back(intervals[0]);
+        for(int i=1;i<n;i++){
+            vector<int>tp=rett.back();
+            if(intervals[i][0] <=tp[1] && intervals[i][0]>=tp[0]){
+                rett.pop_back();
+                vector<int>temp;
+                temp.push_back(min(tp[0], intervals[i][0]));
+                temp.push_back(max(tp[1], intervals[i][1]));
+                rett.push_back(temp);
+            }else{
+                rett.push_back(intervals[i]);
+            }
         }
         return rett;
     }
