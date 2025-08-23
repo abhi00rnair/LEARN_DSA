@@ -15,6 +15,7 @@ Contains solved leetcode questions
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/abhi00rnair/leetcode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhi00rnair/leetcode/tree/master/0057-insert-interval) |
@@ -177,6 +178,7 @@ Contains solved leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/abhi00rnair/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/abhi00rnair/leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
@@ -510,6 +512,7 @@ Contains solved leetcode questions
 | [0022-generate-parentheses](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhi00rnair/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhi00rnair/leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
