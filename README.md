@@ -667,6 +667,7 @@ Contains solved leetcode questions
 | [0029-divide-two-integers](https://github.com/abhi00rnair/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/abhi00rnair/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -698,6 +699,7 @@ Contains solved leetcode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/abhi00rnair/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
