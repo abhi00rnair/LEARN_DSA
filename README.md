@@ -72,6 +72,7 @@ Contains solved leetcode questions
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/abhi00rnair/leetcode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/abhi00rnair/leetcode/tree/master/0890-lemonade-change) |
@@ -558,6 +559,7 @@ Contains solved leetcode questions
 | [0342-power-of-four](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -881,4 +883,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
