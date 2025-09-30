@@ -113,6 +113,7 @@ Contains solved leetcode questions
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhi00rnair/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -574,6 +575,7 @@ Contains solved leetcode questions
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/abhi00rnair/leetcode/tree/master/2050-count-good-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -706,6 +708,7 @@ Contains solved leetcode questions
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhi00rnair/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
@@ -831,6 +834,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Merge Sort
 |  |
