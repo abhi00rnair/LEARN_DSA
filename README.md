@@ -153,6 +153,7 @@ Contains solved leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhi00rnair/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0611-valid-triangle-number) |
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
@@ -299,6 +300,7 @@ Contains solved leetcode questions
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0583-delete-operation-for-two-strings) |
