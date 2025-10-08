@@ -117,6 +117,7 @@ Contains solved leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
@@ -164,6 +165,7 @@ Contains solved leetcode questions
 | [1468-check-if-n-and-its-double-exist](https://github.com/abhi00rnair/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/abhi00rnair/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
@@ -187,6 +189,7 @@ Contains solved leetcode questions
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -226,6 +229,7 @@ Contains solved leetcode questions
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
