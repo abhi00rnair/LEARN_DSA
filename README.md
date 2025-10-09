@@ -34,6 +34,7 @@ Contains solved leetcode questions
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
@@ -245,6 +246,7 @@ Contains solved leetcode questions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhi00rnair/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/abhi00rnair/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/abhi00rnair/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi00rnair/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -305,6 +307,7 @@ Contains solved leetcode questions
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/abhi00rnair/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/abhi00rnair/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/abhi00rnair/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/abhi00rnair/leetcode/tree/master/0179-largest-number) |
@@ -384,6 +387,7 @@ Contains solved leetcode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abhi00rnair/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhi00rnair/leetcode/tree/master/0198-house-robber) |
@@ -621,6 +625,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhi00rnair/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/abhi00rnair/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/abhi00rnair/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
@@ -846,6 +851,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
