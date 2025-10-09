@@ -1,2 +1,2 @@
 # Write your MySQL query statement below
-select name from Employee e1 where 5 <= (select count(managerID) from Employee e2 where e1.id=e2.managerID);
+select e1.name from Employee AS e1 INNER JOIN Employee AS e2 on e1.id=e2.managerID GROUP BY e2.managerID HAVING COUNT(e2.managerID)>=5;
