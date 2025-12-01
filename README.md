@@ -130,6 +130,7 @@ Contains solved leetcode questions
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -602,6 +603,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3676-smallest-number-with-all-set-bits) |
