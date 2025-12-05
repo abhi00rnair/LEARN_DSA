@@ -129,6 +129,7 @@ Contains solved leetcode questions
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -609,6 +610,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -677,6 +679,7 @@ Contains solved leetcode questions
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhi00rnair/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Linked List
 |  |
