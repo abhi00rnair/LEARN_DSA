@@ -134,6 +134,7 @@ Contains solved leetcode questions
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -294,6 +295,7 @@ Contains solved leetcode questions
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -375,6 +377,7 @@ Contains solved leetcode questions
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
