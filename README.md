@@ -163,6 +163,7 @@ Contains solved leetcode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/abhi00rnair/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0611-valid-triangle-number) |
@@ -213,6 +214,7 @@ Contains solved leetcode questions
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhi00rnair/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -629,6 +631,7 @@ Contains solved leetcode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -862,6 +865,7 @@ Contains solved leetcode questions
 | [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Enumeration
@@ -912,6 +916,7 @@ Contains solved leetcode questions
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Database
 |  |
