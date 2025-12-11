@@ -90,6 +90,7 @@ Contains solved leetcode questions
 | [1129-longest-string-chain](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -605,6 +606,7 @@ Contains solved leetcode questions
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1448-maximum-69-number) |
