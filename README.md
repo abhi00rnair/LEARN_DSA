@@ -172,6 +172,7 @@ Contains solved leetcode questions
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0611-valid-triangle-number) |
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
@@ -342,6 +343,7 @@ Contains solved leetcode questions
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -429,6 +431,7 @@ Contains solved leetcode questions
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/abhi00rnair/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0494-target-sum) |
