@@ -116,6 +116,7 @@ Contains solved leetcode questions
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/abhi00rnair/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -455,6 +456,7 @@ Contains solved leetcode questions
 | [1559-cherry-pickup-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -638,6 +640,7 @@ Contains solved leetcode questions
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/abhi00rnair/leetcode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
