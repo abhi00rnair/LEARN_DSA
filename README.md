@@ -19,6 +19,7 @@ Contains solved leetcode questions
 | [0055-jump-game](https://github.com/abhi00rnair/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhi00rnair/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhi00rnair/leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0066-plus-one) |
@@ -779,6 +780,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1642-water-bottles) |
@@ -853,6 +855,7 @@ Contains solved leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0074-search-a-2d-matrix) |
