@@ -1,20 +1,13 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        map<char,int>mp;
+        char res=0;
         for(char ch:t){
-            mp[ch]++;
+            res^=ch;
         }
         for(char ch:s){
-            mp[ch]--;
-            if(mp[ch]==0){
-                mp.erase(ch);
-            }
+            res^=ch;
         }
-        char rett;
-        for(auto &it:mp){
-            rett=it.first;
-        }
-        return rett;
+        return res;
     }
 };
