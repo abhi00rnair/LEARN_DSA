@@ -86,6 +86,7 @@ Contains solved leetcode questions
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhi00rnair/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi00rnair/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhi00rnair/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -357,6 +358,7 @@ Contains solved leetcode questions
 | [0686-repeated-string-match](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-long-pressed-name](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1129-longest-string-chain) |
