@@ -625,6 +625,7 @@ Contains solved leetcode questions
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0326-power-of-three) |
@@ -789,6 +790,7 @@ Contains solved leetcode questions
 | ------- |
 | [0043-multiply-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1642-water-bottles) |
@@ -918,6 +920,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
