@@ -2,12 +2,11 @@ class Solution:
     def maximumHappinessSum(self, happiness: List[int], k: int) -> int:
         n=len(happiness)
         happiness.sort(reverse=True)
-        count=0
         rett=0
-        for i in range(1,k+1):
+        for i in range(0,k):
             maxxi=happiness[0]
-            if maxxi-count >0:
-                rett=rett+maxxi-count
-                count=count+1
+            if maxxi-i >0:
+                rett=rett+maxxi-i
+                count=i+1
             happiness.pop(0)
         return rett        
