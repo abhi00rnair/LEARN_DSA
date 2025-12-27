@@ -446,6 +446,7 @@ Contains solved leetcode questions
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/abhi00rnair/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhi00rnair/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0338-counting-bits) |
@@ -641,6 +642,7 @@ Contains solved leetcode questions
 | [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0342-power-of-four) |
@@ -854,6 +856,7 @@ Contains solved leetcode questions
 | [0199-binary-tree-right-side-view](https://github.com/abhi00rnair/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhi00rnair/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
