@@ -82,6 +82,7 @@ Contains solved leetcode questions
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/abhi00rnair/leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/abhi00rnair/leetcode/tree/master/0890-lemonade-change) |
@@ -305,6 +306,7 @@ Contains solved leetcode questions
 | [0594-longest-harmonious-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
+| [0840-magic-squares-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -653,6 +655,7 @@ Contains solved leetcode questions
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -899,6 +902,7 @@ Contains solved leetcode questions
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
+| [0840-magic-squares-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0840-magic-squares-in-grid) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
