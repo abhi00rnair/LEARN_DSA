@@ -91,6 +91,7 @@ Contains solved leetcode questions
 | [0940-fruit-into-baskets](https://github.com/abhi00rnair/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi00rnair/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhi00rnair/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -311,6 +312,7 @@ Contains solved leetcode questions
 | [0900-reordered-power-of-2](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/abhi00rnair/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhi00rnair/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhi00rnair/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
