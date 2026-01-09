@@ -309,6 +309,7 @@ Contains solved leetcode questions
 | [0621-task-scheduler](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
 | [0840-magic-squares-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhi00rnair/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0876-hand-of-straights](https://github.com/abhi00rnair/leetcode/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -571,6 +572,7 @@ Contains solved leetcode questions
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhi00rnair/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -598,6 +600,7 @@ Contains solved leetcode questions
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhi00rnair/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
@@ -624,6 +627,7 @@ Contains solved leetcode questions
 | [0543-diameter-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhi00rnair/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -883,6 +887,7 @@ Contains solved leetcode questions
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhi00rnair/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0922-possible-bipartition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1073-number-of-enclaves) |
