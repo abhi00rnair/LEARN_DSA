@@ -459,6 +459,7 @@ Contains solved leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/abhi00rnair/leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/abhi00rnair/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -662,6 +663,7 @@ Contains solved leetcode questions
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/abhi00rnair/leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
