@@ -377,6 +377,7 @@ Contains solved leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhi00rnair/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-long-pressed-name](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-long-pressed-name) |
@@ -470,6 +471,7 @@ Contains solved leetcode questions
 | [0583-delete-operation-for-two-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhi00rnair/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
