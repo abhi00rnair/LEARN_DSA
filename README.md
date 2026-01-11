@@ -26,6 +26,7 @@ Contains solved leetcode questions
 | [0074-search-a-2d-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhi00rnair/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi00rnair/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -445,6 +446,7 @@ Contains solved leetcode questions
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/abhi00rnair/leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0120-triangle) |
@@ -543,6 +545,7 @@ Contains solved leetcode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi00rnair/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
@@ -921,6 +924,7 @@ Contains solved leetcode questions
 | [0064-minimum-path-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -997,6 +1001,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0943-sum-of-subarray-minimums) |
