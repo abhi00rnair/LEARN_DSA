@@ -124,6 +124,7 @@ Contains solved leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhi00rnair/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -780,6 +781,7 @@ Contains solved leetcode questions
 | [1046-max-consecutive-ones-iii](https://github.com/abhi00rnair/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhi00rnair/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -947,6 +949,7 @@ Contains solved leetcode questions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Union Find
