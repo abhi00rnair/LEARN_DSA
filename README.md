@@ -1063,6 +1063,7 @@ Contains solved leetcode questions
 | [0627-swap-sex-of-employees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1070-product-sales-analysis-iii) |
+| [1075-project-employees-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1075-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1179-game-play-analysis-i) |
 ## Shortest Path
 |  |
