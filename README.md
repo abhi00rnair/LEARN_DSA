@@ -58,6 +58,7 @@ Contains solved leetcode questions
 | [0274-h-index](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/abhi00rnair/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/abhi00rnair/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -859,6 +860,7 @@ Contains solved leetcode questions
 | [0043-multiply-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/abhi00rnair/leetcode/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1642-water-bottles) |
@@ -945,6 +947,7 @@ Contains solved leetcode questions
 | [0085-maximal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/abhi00rnair/leetcode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/abhi00rnair/leetcode/tree/master/0695-max-area-of-island) |
 | [0840-magic-squares-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0840-magic-squares-in-grid) |
