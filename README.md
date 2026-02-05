@@ -156,6 +156,7 @@ Contains solved leetcode questions
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/abhi00rnair/leetcode/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -873,6 +874,7 @@ Contains solved leetcode questions
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2402-meeting-rooms-iii) |
+| [3379-transformed-array](https://github.com/abhi00rnair/leetcode/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
