@@ -12,18 +12,25 @@
 class Solution {
 public:
     bool isBalanced(TreeNode* root) {
-        int ret=func(root);
-        return ret!=-1?true:false;
+        if(root==NULL){
+            return true;
+        }
+        if(height(root)==-1){
+            return false;
+        }
+        return true;
     }
-    
-    int func(TreeNode* root){
-        if(root==nullptr){
+    int height(TreeNode*root){
+        if(root==NULL){
             return 0;
         }
-        int left=func(root->left);
-        int right=func(root->right);
-        if(left==-1 || right==-1)return -1;
-        if(abs(left-right)>1)return -1;
+        int left=height(root->left);
+        if(left==-1){return -1;}
+        int right=height(root->right);
+        if(right==-1){return -1;}
+        if(abs(left-right)>1){
+            return -1;
+        }
         return max(left,right)+1;
     }
 };
