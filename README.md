@@ -355,6 +355,7 @@ Contains solved leetcode questions
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/abhi00rnair/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/abhi00rnair/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -423,6 +424,7 @@ Contains solved leetcode questions
 | [3396-valid-word](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3396-valid-word) |
 | [3606-coupon-code-validator](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3617-find-the-original-typed-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/abhi00rnair/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
@@ -443,6 +445,7 @@ Contains solved leetcode questions
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/abhi00rnair/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
@@ -998,6 +1001,7 @@ Contains solved leetcode questions
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhi00rnair/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/abhi00rnair/leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
