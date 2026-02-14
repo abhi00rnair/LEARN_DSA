@@ -492,6 +492,7 @@ Contains solved leetcode questions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhi00rnair/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/abhi00rnair/leetcode/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0934-bitwise-ors-of-subarrays) |
