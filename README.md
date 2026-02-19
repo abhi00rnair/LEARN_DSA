@@ -201,6 +201,7 @@ Contains solved leetcode questions
 | [0392-is-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abhi00rnair/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/abhi00rnair/leetcode/tree/master/0696-count-binary-substrings) |
 | [0853-most-profit-assigning-work](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0853-most-profit-assigning-work) |
 | [0961-long-pressed-name](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0961-long-pressed-name) |
 | [1129-longest-string-chain](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1129-longest-string-chain) |
@@ -392,6 +393,7 @@ Contains solved leetcode questions
 | [0678-valid-parenthesis-string](https://github.com/abhi00rnair/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/abhi00rnair/leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhi00rnair/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/abhi00rnair/leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0944-delete-columns-to-make-sorted) |
