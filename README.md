@@ -309,6 +309,7 @@ Contains solved leetcode questions
 | [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi00rnair/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/abhi00rnair/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/abhi00rnair/leetcode/tree/master/0217-contains-duplicate) |
@@ -818,6 +819,7 @@ Contains solved leetcode questions
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi00rnair/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/abhi00rnair/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1003,6 +1005,7 @@ Contains solved leetcode questions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhi00rnair/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhi00rnair/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhi00rnair/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhi00rnair/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -1123,4 +1126,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0274-h-index](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0274-h-index) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhi00rnair/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
