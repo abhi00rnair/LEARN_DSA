@@ -416,6 +416,7 @@ Contains solved leetcode questions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/abhi00rnair/leetcode/tree/master/1508-longest-happy-prefix) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhi00rnair/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -852,6 +853,7 @@ Contains solved leetcode questions
 | [0326-power-of-three](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/abhi00rnair/leetcode/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/abhi00rnair/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -896,6 +898,7 @@ Contains solved leetcode questions
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhi00rnair/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
