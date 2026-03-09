@@ -130,6 +130,7 @@ Contains solved leetcode questions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhi00rnair/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1980-find-unique-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/abhi00rnair/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -347,6 +348,7 @@ Contains solved leetcode questions
 | [1741-sort-array-by-increasing-frequency](https://github.com/abhi00rnair/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1813-maximum-erasure-value) |
+| [1980-find-unique-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -424,6 +426,7 @@ Contains solved leetcode questions
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhi00rnair/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1980-find-unique-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/abhi00rnair/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -691,6 +694,7 @@ Contains solved leetcode questions
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
 | [0282-expression-add-operators](https://github.com/abhi00rnair/leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0494-target-sum) |
+| [1980-find-unique-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhi00rnair/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Math
 |  |
