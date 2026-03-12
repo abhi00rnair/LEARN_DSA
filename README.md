@@ -39,6 +39,7 @@ Contains solved leetcode questions
 | [0135-candy](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/abhi00rnair/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/abhi00rnair/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhi00rnair/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -313,6 +314,7 @@ Contains solved leetcode questions
 | [0141-linked-list-cycle](https://github.com/abhi00rnair/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi00rnair/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/abhi00rnair/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/abhi00rnair/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi00rnair/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/abhi00rnair/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/abhi00rnair/leetcode/tree/master/0205-isomorphic-strings) |
@@ -715,6 +717,7 @@ Contains solved leetcode questions
 | [0066-plus-one](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/abhi00rnair/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/abhi00rnair/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/abhi00rnair/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
@@ -1152,6 +1155,7 @@ Contains solved leetcode questions
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/abhi00rnair/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Radix Sort
