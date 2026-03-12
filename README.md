@@ -604,6 +604,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/abhi00rnair/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhi00rnair/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -628,6 +629,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhi00rnair/leetcode/tree/master/0079-word-search) |
+| [0099-recover-binary-search-tree](https://github.com/abhi00rnair/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhi00rnair/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -661,6 +663,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/abhi00rnair/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhi00rnair/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -1085,6 +1088,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/abhi00rnair/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
