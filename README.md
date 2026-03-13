@@ -885,6 +885,7 @@ Contains solved leetcode questions
 | [0137-single-number-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/abhi00rnair/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/abhi00rnair/leetcode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhi00rnair/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhi00rnair/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0287-find-the-duplicate-number) |
