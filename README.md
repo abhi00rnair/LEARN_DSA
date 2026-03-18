@@ -153,6 +153,7 @@ Contains solved leetcode questions
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -831,6 +832,7 @@ Contains solved leetcode questions
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Linked List
@@ -1019,6 +1021,7 @@ Contains solved leetcode questions
 | [1753-path-with-minimum-effort](https://github.com/abhi00rnair/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Union Find
 |  |
