@@ -4,9 +4,9 @@ public:
         int top=x,bot=x+k-1;
         while(top<bot){
             for(int i=y;i<y+k;i++){
-                int ele1=grid[top][i];
-                grid[top][i]=grid[bot][i];
-                grid[bot][i]=ele1;
+                grid[top][i]=grid[top][i]^grid[bot][i];
+                grid[bot][i]=grid[bot][i]^grid[top][i];
+                grid[top][i]=grid[top][i]^grid[bot][i];
             }
             top++;
             bot--;
