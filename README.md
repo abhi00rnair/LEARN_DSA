@@ -173,6 +173,7 @@ Contains solved leetcode questions
 | [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3606-coupon-code-validator) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/abhi00rnair/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
@@ -218,6 +219,7 @@ Contains solved leetcode questions
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3643-flip-square-submatrix-vertically](https://github.com/abhi00rnair/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -1028,6 +1030,7 @@ Contains solved leetcode questions
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhi00rnair/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhi00rnair/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/abhi00rnair/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Union Find
 |  |
