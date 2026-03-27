@@ -153,6 +153,7 @@ Contains solved leetcode questions
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2906-construct-product-matrix](https://github.com/abhi00rnair/leetcode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhi00rnair/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -761,6 +762,7 @@ Contains solved leetcode questions
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhi00rnair/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhi00rnair/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -940,6 +942,7 @@ Contains solved leetcode questions
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2402-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhi00rnair/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/abhi00rnair/leetcode/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1030,6 +1033,7 @@ Contains solved leetcode questions
 | [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhi00rnair/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2906-construct-product-matrix](https://github.com/abhi00rnair/leetcode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhi00rnair/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhi00rnair/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhi00rnair/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
