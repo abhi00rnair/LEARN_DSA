@@ -12,15 +12,15 @@ public:
             index=(index+1)%n;
             i++;
         }
-        int y=0, index1=startIndex;
-        while(y<n){
-            if(words[index1]==target){
-                int dist=abs(index1-startIndex);
-                rett=min(rett,min(dist,n-dist));
-            }
-            index1=(index1-1+n)%n;
-            y++;
-        }
+        // int y=0, index1=startIndex;
+        // while(y<n){
+        //     if(words[index1]==target){
+        //         int dist=abs(index1-startIndex);
+        //         rett=min(rett,min(dist,n-dist));
+        //     }
+        //     index1=(index1-1+n)%n;
+        //     y++;
+        // }
         return rett==INT_MAX ? -1: rett;
     }
 };
