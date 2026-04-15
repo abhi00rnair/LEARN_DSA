@@ -148,6 +148,7 @@ Contains solved leetcode questions
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2402-meeting-rooms-iii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhi00rnair/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
@@ -451,6 +452,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhi00rnair/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhi00rnair/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
