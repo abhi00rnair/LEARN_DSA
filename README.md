@@ -415,6 +415,7 @@ Contains solved leetcode questions
 | [0345-reverse-vowels-of-a-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/abhi00rnair/leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/abhi00rnair/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -751,6 +752,7 @@ Contains solved leetcode questions
 | [0342-power-of-four](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/abhi00rnair/leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/abhi00rnair/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/abhi00rnair/leetcode/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhi00rnair/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0830-largest-triangle-area) |
@@ -943,6 +945,7 @@ Contains solved leetcode questions
 | [0059-spiral-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/abhi00rnair/leetcode/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/abhi00rnair/leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/abhi00rnair/leetcode/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/abhi00rnair/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/abhi00rnair/leetcode/tree/master/0906-walking-robot-simulation) |
