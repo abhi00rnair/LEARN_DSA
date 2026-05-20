@@ -152,6 +152,7 @@ Contains solved leetcode questions
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhi00rnair/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi00rnair/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/abhi00rnair/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -373,6 +374,7 @@ Contains solved leetcode questions
 | [2348-count-number-of-texts](https://github.com/abhi00rnair/leetcode/tree/master/2348-count-number-of-texts) |
 | [2402-meeting-rooms-iii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2402-meeting-rooms-iii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/abhi00rnair/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi00rnair/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/abhi00rnair/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -938,6 +940,7 @@ Contains solved leetcode questions
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhi00rnair/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/abhi00rnair/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2529-range-product-queries-of-powers](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhi00rnair/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
