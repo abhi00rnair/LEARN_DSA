@@ -164,6 +164,7 @@ Contains solved leetcode questions
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhi00rnair/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhi00rnair/LEARN_DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhi00rnair/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhi00rnair/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -482,6 +483,7 @@ Contains solved leetcode questions
 | [2727-number-of-senior-citizens](https://github.com/abhi00rnair/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/abhi00rnair/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhi00rnair/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhi00rnair/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/abhi00rnair/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhi00rnair/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1212,6 +1214,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhi00rnair/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1243,4 +1246,8 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhi00rnair/leetcode/tree/master/0146-lru-cache) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhi00rnair/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
