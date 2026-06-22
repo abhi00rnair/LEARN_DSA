@@ -375,6 +375,7 @@ Contains solved leetcode questions
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/abhi00rnair/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhi00rnair/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1129-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/abhi00rnair/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/abhi00rnair/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhi00rnair/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -453,6 +454,7 @@ Contains solved leetcode questions
 | [1078-remove-outermost-parentheses](https://github.com/abhi00rnair/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhi00rnair/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1129-longest-string-chain](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1129-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/abhi00rnair/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -505,6 +507,7 @@ Contains solved leetcode questions
 | [0692-top-k-frequent-words](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhi00rnair/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/abhi00rnair/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhi00rnair/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
