@@ -191,6 +191,7 @@ Contains solved leetcode questions
 | [3643-flip-square-submatrix-vertically](https://github.com/abhi00rnair/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/abhi00rnair/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3689-maximum-total-subarray-value-i](https://github.com/abhi00rnair/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhi00rnair/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
@@ -405,6 +406,7 @@ Contains solved leetcode questions
 | [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/abhi00rnair/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhi00rnair/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -520,6 +522,7 @@ Contains solved leetcode questions
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3583-count-special-triplets](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/abhi00rnair/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
@@ -901,6 +904,7 @@ Contains solved leetcode questions
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhi00rnair/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhi00rnair/LEARN_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3639-zero-array-transformation-i](https://github.com/abhi00rnair/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1017,6 +1021,7 @@ Contains solved leetcode questions
 | [0215-kth-largest-element-in-an-array](https://github.com/abhi00rnair/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhi00rnair/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -1166,6 +1171,7 @@ Contains solved leetcode questions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1226,6 +1232,7 @@ Contains solved leetcode questions
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/abhi00rnair/LEARN_DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/abhi00rnair/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/abhi00rnair/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
