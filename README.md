@@ -135,6 +135,7 @@ Contains solved leetcode questions
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhi00rnair/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/abhi00rnair/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhi00rnair/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/abhi00rnair/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -476,6 +477,7 @@ Contains solved leetcode questions
 | [1786-count-the-number-of-consistent-strings](https://github.com/abhi00rnair/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhi00rnair/LEARN_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhi00rnair/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhi00rnair/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/abhi00rnair/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/abhi00rnair/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abhi00rnair/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
